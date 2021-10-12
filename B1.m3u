@@ -1,57 +1,217 @@
 #EXTM3U
-#EXTINF:-1 ,ahlakid.com - |AR| BEIN SPORTS 1 UHD
-http://evdibac.com:80/477845056156344/477845056156344/78637
-#EXTINF:-1 ,ahlakid.com - |AR| BEIN SPORTS 2 UHD
-http://evdibac.com:80/477845056156344/477845056156344/78636
-#EXTINF:-1 ,ahlakid.com - |AR| BEIN SPORTS 3 UHD
-http://evdibac.com:80/477845056156344/477845056156344/78635
-#EXTINF:-1 ,ahlakid.com - |AR| BEIN SPORTS 4 UHD
-http://evdibac.com:80/477845056156344/477845056156344/78634
-#EXTINF:-1 ,ahlakid.com - |AR| BEIN SPORTS 5 UHD
-http://evdibac.com:80/477845056156344/477845056156344/78633
-#EXTINF:-1 ,ahlakid.com - |AR| BEIN SPORTS 7 UHD
-http://evdibac.com:80/477845056156344/477845056156344/78631
-#EXTINF:-1 ,ahlakid.com - |AR| BEIN SPORTS 8 UHD
-http://evdibac.com:80/477845056156344/477845056156344/78630
-#EXTINF:-1 ,ahlakid.com - |AR| BEIN SPORTS 9 UHD
-http://evdibac.com:80/477845056156344/477845056156344/78629
-#EXTINF:-1 ,ahlakid.com - |AR| BEIN SPORTS 10 UHD OLYMPIC
-http://evdibac.com:80/477845056156344/477845056156344/78628
-#EXTINF:-1 group-title="|AR| BEIN SPORTS SD/HD/FHD",ahlakid.com - BEINSPORTS 3 HD
-http://ottin.me:8000/salam_000946/ImHfNpi5/106517
-#EXTINF:-1 group-title="|AR| BEIN SPORTS SD/HD/FHD",ahlakid.com - |BEIN| BEIN 1 HEVC
-http://ottin.me:8000/salam_000946/ImHfNpi5/106543
-#EXTINF:-1 group-title="|AR| BEIN SPORTS SD/HD/FHD",ahlakid.com - |BEIN| BEIN 5 HEVC
-http://ottin.me:8000/salam_000946/ImHfNpi5/106547
-#EXTINF:-1 group-title="|AR| BEIN SPORTS SD/HD/FHD",ahlakid.com - BEIN SPORTS 1 SD
-http://ottin.me:8000/salam_000946/ImHfNpi5/106572
-#EXTINF:-1 group-title="|AR| BEIN SPORTS SD/HD/FHD",ahlakid.com - BEIN SPORTS 3 SD
-http://ottin.me:8000/salam_000946/ImHfNpi5/106574
-#EXTINF:-1 group-title="|AR| BEIN SPORTS SD/HD/FHD",ahlakid.com - BEIN SPORTS 4 SD
-http://ottin.me:8000/salam_000946/ImHfNpi5/106575
-#EXTINF:-1 group-title="|AR| BEIN SPORTS SD/HD/FHD",ahlakid.com - BEIN SPORTS 6 SD
-http://ottin.me:8000/salam_000946/ImHfNpi5/106577
-#EXTINF:-1 ,ahlakid.com - |AR| BEIN SPORTS 1 UHD
-http://rv.imax.re:80/307271211166/307271211166/78637
-#EXTINF:-1 ,ahlakid.com - |AR| BEIN SPORTS 2 UHD
-http://rv.imax.re:80/307271211166/307271211166/78636
-#EXTINF:-1 ,ahlakid.com - |AR| BEIN SPORTS 3 UHD
-http://rv.imax.re:80/307271211166/307271211166/78635
-#EXTINF:-1 ,ahlakid.com - |AR| BEIN SPORTS 4 UHD
-http://rv.imax.re:80/307271211166/307271211166/78634
-#EXTINF:-1 ,ahlakid.com - |AR| BEIN SPORTS 5 UHD
-http://rv.imax.re:80/307271211166/307271211166/78633
-#EXTINF:-1 ,ahlakid.com - |AR| BEIN SPORTS 7 UHD
-http://rv.imax.re:80/307271211166/307271211166/78631
-#EXTINF:-1 ,ahlakid.com - |AR| BEIN SPORTS 8 UHD
-http://rv.imax.re:80/307271211166/307271211166/78630
-#EXTINF:-1 ,ahlakid.com - |AR| BEIN SPORTS 9 UHD
-http://rv.imax.re:80/307271211166/307271211166/78629
-#EXTINF:-1 ,ahlakid.com - |AR| BEIN SPORTS 10 UHD OLYMPIC
-http://rv.imax.re:80/307271211166/307271211166/78628
-#EXTINF:-1 ,ahlakid.com - |AR| ABU DHABI SPORTS 1 HD
-http://rv.imax.re:80/307271211166/307271211166/86493
-#EXTINF:-1 ,ahlakid.com - |AR| ABU DHABI SPORTS 2 HD
-http://rv.imax.re:80/307271211166/307271211166/86492
-#EXTINF:-1 ,ahlakid.com - |AR| ABU DHABI SPORTS 3 HD
-http://rv.imax.re:80/307271211166/307271211166/86491
+#EXTINF:-1,beIN SPORTS FullHD1
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/3221
+#EXTINF:-1,beIN SPORTS FullHD2
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/3222
+#EXTINF:-1,beIN SPORTS FullHD3
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/3223
+#EXTINF:-1,beIN SPORTS FullHD4
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/3224
+#EXTINF:-1,beIN SPORTS FullHD5
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/3225
+#EXTINF:-1,beIN SPORTS FullHD6
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/3226
+#EXTINF:-1,beIN SPORTS FullHD7
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/3230
+#EXTINF:-1,beIN SPORTS FullHD8
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/3227
+#EXTINF:-1,beIN SPORTS FullHD9
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/3228
+#EXTINF:-1,beIN SPORTS FullHD10
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/3229
+#EXTINF:-1,AR: beIN Sports 1 4K HEVC
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/459
+#EXTINF:-1,AR: beIN Sports 2 4K HEVC
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/450
+#EXTINF:-1,AR: beIN Sports  3 4K HEVC
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/451
+#EXTINF:-1,AR: beIN Sports  4 4K HEVC
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/452
+#EXTINF:-1,AR: beIN Sports  5 4K HEVC
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/453
+#EXTINF:-1,AR: beIN Sports  6 4K HEVC
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/454
+#EXTINF:-1,AR: beIN Sports  7 4K HEVC
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/455
+#EXTINF:-1,AR: beIN Sports  8 4K HEVC
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/456
+#EXTINF:-1,AR: beIN Sports  9 4K HEVC
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/457
+#EXTINF:-1,AR: beIN Sports  10 4K HEVC
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/458
+#EXTINF:-1,local bein sport hd 1
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/2059
+#EXTINF:-1,local bein sport hd 2
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/2060
+#EXTINF:-1,local bein sport hd 3
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/2061
+#EXTINF:-1,local bein sport hd 4
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/2062
+#EXTINF:-1,local bein sport hd 5
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/2063
+#EXTINF:-1,local bein sport hd 6
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/2064
+#EXTINF:-1,local bein sport hd 7
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/2065
+#EXTINF:-1,local bein sport hd 8
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/2066
+#EXTINF:-1,local bein sport hd 9
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/3231
+#EXTINF:-1,local bein sport hd 10
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/3232
+#EXTINF:-1,AR: beIN SPORTS HD1
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/46
+#EXTINF:-1,AR: beIN SPORTS HD2
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/47
+#EXTINF:-1,AR: beIN SPORTS HD3
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/48
+#EXTINF:-1,AR: beIN SPORTS HD4
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/49
+#EXTINF:-1,AR: beIN SPORTS HD5
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/50
+#EXTINF:-1,AR: beIN SPORTS HD6
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/51
+#EXTINF:-1,AR: beIN SPORTS HD7
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/52
+#EXTINF:-1,AR: beIN SPORTS HD8
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/53
+#EXTINF:-1,AR: beIN SPORTS HD9
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/54
+#EXTINF:-1,AR: beIN SPORTS HD10
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/55
+#EXTINF:-1,AR: beIN SPORTS HD11
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/3001
+#EXTINF:-1,AR: beIN SPORTS HD12
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/3002
+#EXTINF:-1,AR: beIN SPORTS SD1
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/56
+#EXTINF:-1,AR: beIN SPORTS SD2
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/57
+#EXTINF:-1,AR: beIN SPORTS SD3
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/58
+#EXTINF:-1,AR: beIN SPORTS SD4
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/59
+#EXTINF:-1,AR: beIN SPORTS SD5
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/60
+#EXTINF:-1,AR: beIN SPORTS SD6
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/93
+#EXTINF:-1,AR: beIN SPORTS SD7
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/92
+#EXTINF:-1,AR: beIN SPORTS SD8
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/91
+#EXTINF:-1,AR: beIN SPORTS SD9
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/61
+#EXTINF:-1,AR: beIN SPORTS SD10
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/1459
+#EXTINF:-1,AR: beIN SPORTS LOW1
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/62
+#EXTINF:-1,AR: beIN SPORTS LOW2
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/63
+#EXTINF:-1,AR: beIN SPORTS LOW3
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/64
+#EXTINF:-1,AR: beIN SPORTS LOW4
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/65
+#EXTINF:-1,AR: beIN SPORTS LOW5
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/66
+#EXTINF:-1,AR:bein sport low6
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/2108
+#EXTINF:-1,AR:bein sport low7
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/2109
+#EXTINF:-1,AR:bein sport low8
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/2110
+#EXTINF:-1,AR:bein sport low9
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/2111
+#EXTINF:-1,AR: bein sport low10
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/2112
+#EXTINF:-1,BEOUT 1 HD
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/2991
+#EXTINF:-1,BEOUT 2 HD
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/2992
+#EXTINF:-1,BEOUT 3 HD
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/2993
+#EXTINF:-1,BEOUT 4 HD
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/2994
+#EXTINF:-1,BEOUT 5 HD
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/2995
+#EXTINF:-1,BEOUT 6 HD
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/2996
+#EXTINF:-1,BEOUT 7 HD
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/2997
+#EXTINF:-1,BEOUT 8 HD
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/2998
+#EXTINF:-1,BEOUT 9HD
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/2999
+#EXTINF:-1,BEOUT 10 HD
+#EXTVLCOPT:http-user-agent=rauytiwobhudsi
+http://kaicertv.ddns.net:8080/kaicernewapp/aWKSG8x6Wo/3000
